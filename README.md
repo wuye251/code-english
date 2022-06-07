@@ -11,4 +11,5 @@
 - [[indegree] n. 入度](https://leetcode-cn.com/problems/course-schedule/solution/course-schedule-tuo-bu-pai-xu-bfsdfsliang-chong-fa/)
 - [[out-degree] 出度](https://leetcode-cn.com/problems/course-schedule/solution/course-schedule-tuo-bu-pai-xu-bfsdfsliang-chong-fa/)
   - 有向图中 A->B 则有 A出度加一, B的入度加一
+- [deadlock] 死锁
 
