@@ -15,3 +15,4 @@
 - [grain] n. 粒度 (描述功能粒度时 可用grain表示)
 - [basics] adj. 最重要的，基本的；最简单的，初级的
 - [module] n. 组件，模块，功能模块(描述某个功能模块时，可以用此描述该属性)
+- [convert] v. （使）转变，（使）转换；(string转time可以用convert string to time)
