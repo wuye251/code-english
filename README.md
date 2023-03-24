@@ -17,3 +17,4 @@
 - [module] n. 组件，模块，功能模块(描述某个功能模块时，可以用此描述该属性)
 - [convert] v. （使）转变，（使）转换；(string转time可以用convert string to time)
 - [concrete] adj. 具体的 (实现抽象类的具体方法可以用 concrete class描述)
+- [parse] v. 分析(分析/处理一个url为host,path,uri 可以叫做 urlParse(url))
