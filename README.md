@@ -18,3 +18,4 @@
 - [convert] v. （使）转变，（使）转换；(string转time可以用convert string to time)
 - [concrete] adj. 具体的 (实现抽象类的具体方法可以用 concrete class描述)
 - [parse] v. 分析(分析/处理一个url为host,path,uri 可以叫做 urlParse(url))
+- [provider] n. 提供者,供应商
