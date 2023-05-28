@@ -19,3 +19,4 @@
 - [concrete] adj. 具体的 (实现抽象类的具体方法可以用 concrete class描述)
 - [parse] v. 分析(分析/处理一个url为host,path,uri 可以叫做 urlParse(url))
 - [provider] n. 提供者,供应商
+- [idle] adj. 闲置的,空闲的(例:go语言中m内核态线程无任务执行,则会处于**闲置idle**状态)
