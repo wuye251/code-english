@@ -20,3 +20,4 @@
 - [parse] v. 分析(分析/处理一个url为host,path,uri 可以叫做 urlParse(url))
 - [provider] n. 提供者,供应商
 - [idle] adj. 闲置的,空闲的(例:go语言中m内核态线程无任务执行,则会处于**闲置idle**状态)
+- [spin lock] 自旋锁(go语言中的m无任务执行 会处于**自旋**状态)
